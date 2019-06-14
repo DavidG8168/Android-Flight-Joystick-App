@@ -1,0 +1,9 @@
+<resources>
+    <!-- XML file used for storing the strings for various texts used in the design. -->
+    <string name="ip_box_string">IP:</string>
+    <string name="ip_string">10.0.2.2</string>
+    <string name="port_box_string">PORT:</string>
+    <string name="port_string">5402</string>
+    <string name="send_button_string">SEND</string>
+    <string name="application_name">Flight Simulator Joystick</string>
+</resources>
